@@ -22,7 +22,7 @@
 Here are some of my projects:
 
 - ✅ **To-Do List App**  
-  → A simple task manager using HTML, CSS, and JavaScript
+  → A simple task manager using HTML, CSS, and JavaScript<br>
   live demo : (https://sumasollapur0809.github.io/to-do-app/)
 
 - 🌐 **Portfolio Website**  
