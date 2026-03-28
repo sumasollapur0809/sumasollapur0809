@@ -22,12 +22,12 @@
 Here are some of my projects:
 
 - ✅ **To-Do List App**  
-  → A simple task manager using HTML, CSS, and JavaScript  
+  → A simple task manager using HTML, CSS, and JavaScript
+  live demo : (https://sumasollapur0809.github.io/to-do-app/)
 
 - 🌐 **Portfolio Website**  
-  → My personal portfolio showcasing my work  
-
-
+  → My personal portfolio showcasing my work
+  inprogress :)
 
 ---
 
