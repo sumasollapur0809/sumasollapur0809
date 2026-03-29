@@ -27,7 +27,8 @@ Here are some of my projects:
 
 - 🌐 **Portfolio Website**  
   → My personal portfolio showcasing my work
-  inprogress :)
+  inprogress :)<br>
+  (https://sumasollapur0809.github.io/my-portfolio/)
 
 ---
 
